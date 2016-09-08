@@ -23,7 +23,7 @@ class MyExceptionClass extends \RuntimeException
 
     public static function forEntity($entity)
     {
-        return new self::create(
+        return self::create(
             'There was an error with an entity of type %s with value of %s.',
             [
                 self::typeToString($entity)
