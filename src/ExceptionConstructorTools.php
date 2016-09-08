@@ -22,9 +22,9 @@ trait ExceptionConstructorTools
         $message,
         array $params = [],
         $code = 0,
-        $previous = null
+        \Exception $previous = null
     ) {
-        return new static(vsprintf($message, $params), $code, $previous);
+        return new static(sprintf($message, ...$params), $code, $previous);
     }
 
     /**
