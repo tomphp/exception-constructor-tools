@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.0.0] - 2016-09-09
+### Changed
+ * Moved `TomPHP\ExceptionConstructorTools\ExceptionConstructorTools` to
+   `TomPHP\ExceptionConstructorTools`
+
 ## [0.1.0] - 2016-09-08
 ### Added
  * `printf` style message formatting.
