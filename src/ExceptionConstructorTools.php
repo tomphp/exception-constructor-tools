@@ -1,6 +1,6 @@
 <?php
 
-namespace TomPHP\ExceptionConstructorTools;
+namespace TomPHP;
 
 /**
  * This trait provides useful static methods which can be used to help create

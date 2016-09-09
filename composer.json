@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "TomPHP\\ExceptionConstructorTools\\": "src/"
+            "TomPHP\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "tests\\unit\\TomPHP\\ExceptionConstructorTools\\": "tests/unit/",
+            "tests\\unit\\TomPHP\\": "tests/unit/",
             "tests\\support\\": "tests/support/"
         }
     },

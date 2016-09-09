@@ -1,6 +1,6 @@
 <?php
 
-namespace tests\unit\TomPHP\ExceptionConstructorTools;
+namespace tests\unit\TomPHP;
 
 use PHPUnit_Framework_TestCase;
 use tests\support\ExampleException;

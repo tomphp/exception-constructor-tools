@@ -2,7 +2,7 @@
 
 namespace tests\support;
 
-use TomPHP\ExceptionConstructorTools\ExceptionConstructorTools;
+use TomPHP\ExceptionConstructorTools;
 
 class ExampleException extends \RuntimeException
 {
