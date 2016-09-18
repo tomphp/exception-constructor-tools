@@ -1,5 +1,11 @@
 # Exception Constructor Tools
 
+[![Build Status](https://travis-ci.org/tomphp/exception-constructor-tools.svg?branch=master)](https://travis-ci.org/tomphp/exception-constructor-tools)
+[![Latest Stable Version](https://poser.pugx.org/tomphp/exception-constructor-tools/v/stable)](https://packagist.org/packages/tomphp/exception-constructor-tools)
+[![Total Downloads](https://poser.pugx.org/tomphp/exception-constructor-tools/downloads)](https://packagist.org/packages/tomphp/exception-constructor-tools)
+[![Latest Unstable Version](https://poser.pugx.org/tomphp/exception-constructor-tools/v/unstable)](https://packagist.org/packages/tomphp/exception-constructor-tools)
+[![License](https://poser.pugx.org/tomphp/exception-constructor-tools/license)](https://packagist.org/packages/tomphp/exception-constructor-tools)
+
 A simple PHP trait which makes creating static constructors for exceptions nicer.
 
 ## Installation
